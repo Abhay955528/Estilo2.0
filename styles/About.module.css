@@ -1,0 +1,51 @@
+.container{
+height: 100vh;
+width: 100vw;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container_main{
+height: 90%;
+width: 95%;
+text-align: center;
+}
+
+.H2{
+    font-family: var(--font1);
+    text-decoration: underline;
+}
+
+.img{
+    position: relative;
+    width: 100%;
+}
+
+.text{
+    position: absolute;
+    border: 1px solid;
+    height: 35vh;
+    width: 80vw;
+    background: white;
+    text-align: center;
+    margin-left: 7vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 60vh;
+    font-family: var(--font4);
+}
+
+.p{
+    width: 47vw;
+    text-align: start;
+}
+
+.text_flied{
+
+}
+
+.content_1{
+    
+}

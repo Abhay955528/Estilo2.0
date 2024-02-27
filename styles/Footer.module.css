@@ -1,0 +1,9 @@
+.Footer{
+    height: 100vh;
+    width: 100vw;
+}
+
+.content{
+    position: absolute;
+    top:0;
+}

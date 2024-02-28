@@ -7,7 +7,8 @@ import CartEmpty from "./CartEmpty"
 import Footer from "./Footer"
 import TermsCondition from "./TermsCondition";
 import HelpSupport from "./HelpSupport";
+import Sort from "./Sort";
 
 export{
-    Login, Navbar, HomePage ,About ,Cart ,CartEmpty ,Footer ,TermsCondition, HelpSupport
+    Login, Navbar, HomePage ,About ,Cart ,CartEmpty ,Footer ,TermsCondition, HelpSupport, Sort
 }

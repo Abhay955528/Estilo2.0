@@ -15,11 +15,12 @@ export default function About() {
             height={50}
             layout='responsive'
           />
-        </div>
-        <div className={Style.text}>
+          <div className={Style.text}>
           <p className={Style.p}>
             To help customers make informed decisions, provide detailed product descriptions that include information about the phone's conditions, feadivtures,and specifications. </p>
         </div>
+        </div>
+        
         <div className={Style.text_flied}>
           <div className={Style.content_1}>
             <h3>Wide reach</h3>

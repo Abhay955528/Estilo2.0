@@ -8,7 +8,11 @@ import Footer from "./Footer"
 import TermsCondition from "./TermsCondition";
 import HelpSupport from "./HelpSupport";
 import Sort from "./Sort";
+import FAQS from "./FAQS";
+import Address from "./Address";
 
 export{
-    Login, Navbar, HomePage ,About ,Cart ,CartEmpty ,Footer ,TermsCondition, HelpSupport, Sort
+    Login, Navbar, HomePage ,About ,Cart ,CartEmpty ,Footer ,TermsCondition, HelpSupport, Sort ,
+    FAQS, 
+    Address
 }
